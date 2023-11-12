@@ -1,2 +1,3 @@
 # swayam-demo
-first git repo
+first git repository
+author-swayam shah
